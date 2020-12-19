@@ -1,0 +1,6 @@
+[submodule "warehouse-env"]
+	path = warehouse-env
+	url = git@github.com:eczy/warehouse-env.git
+[submodule "PRIMAL2"]
+	path = PRIMAL2
+	url = git@github.com:eczy/PRIMAL2.git
